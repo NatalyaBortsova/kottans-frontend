@@ -2,7 +2,7 @@ Hello to everyone! My name is Natalya
 I'm enjoyed to participate in this course. 
 
 1. Git Basics
-It was quite useful stage for me. Some information I have known before, because I have completed course as a Markup Developer last year. As for me I knew only how to create the repo, init git in the project, make commit, add files, and push, I beleived that it would be enough for my future work. But in this basic lectures on Coursera and after completeling tasks from learngitbranching.js.org, I have known more complicated commands, that I could use further.
+It was quite useful stage for me. Some information I have known before, because I have completed course as a Markup Developer last year. As for me I knew only how to create the repo, init git in the project, make commit, add files, and push, I beleived that it would be enough for my future work. But in this basic lectures on Coursera and after completing the tasks from learngitbranching.js.org, I have known more complicated commands, that I could use further.
 
 ## Linux CLI, and HTTP 
 2. Linux CLI and Networking
@@ -12,3 +12,8 @@ The screenshots of Linux completed task.
 ![linux2](https://user-images.githubusercontent.com/94145117/181259846-f480f74a-5832-4762-8b25-c5a13010d4d6.png)
 ![linux3](https://user-images.githubusercontent.com/94145117/181259874-85c91a95-3090-407d-8e6a-1f3d92efd329.png)
 ![linux4](https://user-images.githubusercontent.com/94145117/181259886-7941020e-079d-421e-8535-b8342723e618.png)
+
+## Git Collaboration
+This stage was very complicative for me, I needed to reread one topic more then one times to understand. There are lot of tricks that facilitate the work with github, that I think I wil use in my future work.
+![git1](https://user-images.githubusercontent.com/94145117/181919615-fa3b873e-496c-45ad-b713-714e88ca687d.png)
+![git2](https://user-images.githubusercontent.com/94145117/181919621-8e6a5d45-b63c-4ed7-a527-3964da29e899.png)
