@@ -18,6 +18,11 @@ This stage was very complicative for me, I needed to reread one topic more then 
 ![git2](https://user-images.githubusercontent.com/94145117/181919621-8e6a5d45-b63c-4ed7-a527-3964da29e899.png)
 
 ## Intro to HTML and CSS 
-The course was very easy for me, because I was completed course of Markup Developer last year
+The course was very easy for me, because I had completed course of Markup Developer last year
 ![css](https://user-images.githubusercontent.com/94145117/182037928-a98ec523-9b93-4c3d-ae82-0c0a35bc84ae.png)
 ![html](https://user-images.githubusercontent.com/94145117/182037932-5075146c-c1c7-49f4-b02c-8d73272ec876.png)
+
+## Responsive Web Design
+Mostly everything was understandable and familiar to me. 
+![flex](https://user-images.githubusercontent.com/94145117/182087594-7555134d-1ac6-4d7e-a709-c5a8c982047a.png)
+![grid](https://user-images.githubusercontent.com/94145117/182087610-efd64a93-10b8-413a-afe3-28abd7042ec5.png)
