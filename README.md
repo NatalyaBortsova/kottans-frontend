@@ -26,3 +26,13 @@ The course was very easy for me, because I had completed course of Markup Develo
 Mostly everything was understandable and familiar to me. 
 ![flex](https://user-images.githubusercontent.com/94145117/182087594-7555134d-1ac6-4d7e-a709-c5a8c982047a.png)
 ![grid](https://user-images.githubusercontent.com/94145117/182087610-efd64a93-10b8-413a-afe3-28abd7042ec5.png)
+
+## JS Basics
+It was very hard for me to understand, also I needed to take a hint. First theme Basic JavaScript was quite easy, because I have studied it before on my own. As I understand I need more practice to solve task easy. So that I will spend my free time to study Javascript  better.
+There are links to screenshots:
+![jsbasic](https://user-images.githubusercontent.com/94145117/184246349-c6e5235f-718b-49ef-aacb-855c2be93cf5.png)
+![es6](https://user-images.githubusercontent.com/94145117/184246365-3637c8fd-3ce7-4359-954d-173f253fd52b.png)
+![basicDataStructures](https://user-images.githubusercontent.com/94145117/184246387-789a92bc-ac40-492b-8e17-fbaf9cfa81a4.png)
+![basicAlgorithmScripting](https://user-images.githubusercontent.com/94145117/184246412-c5728a89-eae6-42c0-a3c4-8393bd4091db.png)
+![functionalProgramming](https://user-images.githubusercontent.com/94145117/184246439-f30489bd-8f5b-48c2-aa62-3e565edeaf43.png)
+![intermediateAlgorithmScripting](https://user-images.githubusercontent.com/94145117/184246461-820e9727-5924-4d61-9f5a-66e51da0ae13.png)
